@@ -1,4 +1,4 @@
-# AHKBot_SWBOT v3
+# AHK_SWBOT v3
 ## third version
 	- Date: ~ 2016
 	- Third version of this bot

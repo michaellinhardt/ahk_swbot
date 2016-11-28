@@ -1,4 +1,4 @@
-# AHKBot_SWBOT v1
+# AHK_SWBOT v1
 ## first version
 	- Date: ~ 2014
 	- My first version of this bot, a script for mobile game "Summoner's war".

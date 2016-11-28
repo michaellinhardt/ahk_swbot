@@ -1,4 +1,4 @@
-# AHKBot_SWBOT v2
+# AHK_SWBOT v2
 ## second version
 	- Date: ~ 2016
 	- Second version of this bot
