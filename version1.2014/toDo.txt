@@ -1,0 +1,7 @@
+- Après un refresh d'arene raté -> bloqué arene 2 min
+	* si iNoArene = 1 pas d'arene (reset après 2 match)
+- iNBrun = nombre de run que l'on a fait depuis le reload (incrémenté a chaque clic sur "5 energy go"
+	* iNBrunMax = arrêter après X run le script 
+	* F6 = régle le max sur le nombre nécessaire pour un un mob 1* du level 1 au 15
+	* F7 mob 2* et F8 mob 3* et F9 = no limit
+- Enregistrer les jpeg de tout les level en arene pour forcer le bot a n'affronter que des lvel < 30 sinon refresh la liste arene

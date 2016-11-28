@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<settings>
+	<hotkeys>
+		<New menu="&amp;New"></New>
+		<Save menu="&amp;Save"></Save>
+		<Save_As menu="S&amp;ave As"></Save_As>
+		<Open menu="&amp;Open"></Open>
+		<Export menu="Ex&amp;port"></Export>
+		<Test_GUI menu="&amp;Test GUI"></Test_GUI>
+		<Exit menu="E&amp;xit"></Exit>
+		<Update_Program menu="&amp;Update Program"></Update_Program>
+		<Edit_GLabels menu="Edit GLabels"></Edit_GLabels>
+		<Select_All menu="Select All"></Select_All>
+		<Invert_Selection menu="Invert Selection"></Invert_Selection>
+		<Edit_Hotkeys menu="Edit &amp;Hotkeys"></Edit_Hotkeys>
+		<Redraw menu="Redraw"></Redraw>
+		<Snap_To_Grid menu="&amp;Snap To Grid"></Snap_To_Grid>
+		<Display_Grid menu="Display &amp;Grid"></Display_Grid>
+		<Grid_Dot_Color menu="Grid &amp;Dot Color"></Grid_Dot_Color>
+		<Grid_Background menu="Grid &amp;Background"></Grid_Background>
+		<Debug_Window menu="Debug &amp;Window"></Debug_Window>
+		<Button menu="Button"></Button>
+		<Checkbox menu="Checkbox"></Checkbox>
+		<ComboBox menu="ComboBox"></ComboBox>
+		<DateTime menu="DateTime"></DateTime>
+		<DropDownList menu="DropDownList"></DropDownList>
+		<Edit menu="Edit"></Edit>
+		<GroupBox menu="GroupBox"></GroupBox>
+		<Hotkey menu="Hotkey"></Hotkey>
+		<ListBox menu="ListBox"></ListBox>
+		<ListView menu="ListView"></ListView>
+		<MonthCal menu="MonthCal"></MonthCal>
+		<Picture menu="Picture"></Picture>
+		<Progress menu="Progress"></Progress>
+		<Radio menu="Radio"></Radio>
+		<Slider menu="Slider"></Slider>
+		<Tab menu="Tab"></Tab>
+		<Text menu="Text"></Text>
+		<TreeView menu="TreeView"></TreeView>
+		<UpDown menu="UpDown"></UpDown>
+		<Help menu="Help"></Help>
+		<Online_Help menu="Online Help"></Online_Help>
+	</hotkeys>
+	<last file="C:\Users\nestoyeur\Google Drive\SWBOT-V3\gui.xml">C:\Users\nestoyeur\Google Drive\SWBOT-V3\gui.xml</last>
+	<gui>
+		<main h="906" w="871" x="686" y="0"></main>
+		<settings h="500" w="275" x="5" y="5"></settings>
+		<workarea h="629" w="454" x="299" y="2"></workarea>
+	</gui>
+	<options>
+		<Snap_To_Grid>1</Snap_To_Grid>
+	</options>
+</settings>

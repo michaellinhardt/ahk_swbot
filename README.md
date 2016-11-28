@@ -1,2 +1,5 @@
 # AHKBot_SWBOT
-My AutoHotKey script for mobile game "Summoner's war" (multiple version &amp; script)
+	- version 1: 2014
+	- version 2: 2016
+	- version 3: 2016
+	- Main information in version 1 README.md
